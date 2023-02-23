@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(247, 237, 224);
+}
+h1{
+    font-weight: bold;
+    font-family: 'Inconsolata', monospace;
+}
+
+h2{
+    font-family: 'Inconsolata', monospace;
+    color: rgb(61, 61, 61);
+}
